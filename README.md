@@ -85,18 +85,34 @@ Total number of elements in the list (including duplicates) = 40
 ---------------------------------------------------------
     3(1)   12(2)   16(1)   22(1)   23(1)
    24(1)   27(2)   28(1)   30(2)   31(1)
-   ...
+   36(2)   37(1)   41(1)   43(1)   50(1)
+   57(1)   59(1)   60(1)   63(2)   64(1)
+   68(3)   69(1)   70(1)   73(1)   78(1)
+   83(1)   84(1)   87(2)   91(1)   93(1)
+   94(2)
 ---------------------------------------------------------
 Most frequent element is 68 and the count is 3
 The smallest number is 3 and its count is 1.
 The largest number is 94 and its count is 2.
+---------------------------------------------------------
+Enter a number to search for (or -1 to quit): 12
+I found the Number: 12; it occurred 2 times
+---------------------------------------------------------
+Enter a number to search for (or -1 to quit): 50
+I found the Number: 50; it occurred 1 time
+---------------------------------------------------------
+Enter a number to search for (or -1 to quit): 7
+Sorry, I couldn't find the Number: 7
+---------------------------------------------------------
+Enter a number to search for (or -1 to quit): -1
+Exiting search. Thank you!
 ```
 
 ## 🏆 Conclusion
 
-This project highlights the power of choosing the right data structure for the task at hand. Whether you prioritize performance, simplicity, or memory efficiency, these implementations offer a clear comparison.
+This project highlights the power of choosing the right data structure for the task at hand. Whether we prioritize performance, simplicity, or memory efficiency, these implementations offer a clear comparison.
 
-Feel free to explore the code, run the implementations, and contribute if you have ideas to enhance the project!
+Feel free to explore the code, run the implementations, and contribute further!
 
 ---
 
