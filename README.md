@@ -2,9 +2,9 @@
 
 ---
 
-# 📊 Data Structure Showdown: Frequency Counter Implementations
+# 📊 Data Structures Warzone: Frequency Counter Implementations
 
-Welcome to the **Data Structure Showdown**! In this repository, you'll find four different implementations of a frequency counter problem using popular data structures:
+Welcome to the **Data Structures Warzone**! In this repository, you'll find four different implementations of a frequency counter problem using popular data structures:
 
 1. **Singly Linked List**
 2. **Binary Search Tree (BST)**
