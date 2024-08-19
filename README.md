@@ -75,9 +75,17 @@ g++ linked_list.cpp -o linked_list
 
 Repeat the above for the other implementations to see each data structure in action.
 
-## 📊 Time Complexity Analysis
+## ⏱️ Time Complexity Analysis
 
 Here’s a brief comparison of the time complexities for each implementation:
+
+| Operation/Structure            | Singly Linked List | Binary Search Tree (BST) | Min-Heap | Hash Map |
+|--------------------------------|--------------------|--------------------------|----------|----------|
+| **Insertion**                  | O(n)               | O(log n) (balanced)      | O(log n) | O(1)     |
+| **Search**                     | O(n)               | O(log n) (balanced)      | O(n)     | O(1)     |
+| **Display (Sorted)**           | O(n)               | O(n)                     | O(n log n)| O(n log n) |
+| **Find Most Frequent Element** | O(n)               | O(n)                     | O(n)     | O(n)     |
+
 
 ## 📊 Output Example
 
